@@ -1,0 +1,2 @@
+# TMPLTMODFSWA_TEMPLATE_MODULE_FULL_STACK_WEB_APP
+Full Stack Web App Module Template
