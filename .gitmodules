@@ -1,0 +1,3 @@
+[submodule ".vscode"]
+	path = .vscode
+	url = https://github.com/INNORBIO/PRJVSCS_PROJECT_VSCODE_SETTINGS.git
